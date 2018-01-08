@@ -8,7 +8,7 @@
 ## 拆轮子的目录
 
 
-[Requests v0.2.0  Birth!](./doc/Requests_v0.2.0.md)  2016-03-14
+[Requests v0.2.0  Birth!(./doc/Requests_v0.2.0.md)  2016-03-14
 
 [Requests v0.3.0  Be frinendly](./doc/Requests_v0.3.0.md) 2016-03-16
 
